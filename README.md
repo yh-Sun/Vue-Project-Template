@@ -1,4 +1,4 @@
-# vue-project-template-ui
+# vue-project-template
 
 ## Project setup
 ```
